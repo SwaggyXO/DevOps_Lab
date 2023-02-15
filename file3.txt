@@ -1,1 +1,1 @@
-Some text in file 3
+Text in file 3
